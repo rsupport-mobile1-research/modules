@@ -1,7 +1,7 @@
 {
   "RSAssistant" : {
-    "version" : "1027",
+    "version" : "1028",
     "mandatoryVersion" : "1027",
-    "path": "/rsassistant.apk"
+    "path": "/rsassistant-1.2.0.1028-release.apk"
   }
 }
